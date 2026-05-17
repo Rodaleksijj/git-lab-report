@@ -1,1 +1,1 @@
-print('Podgotovka k konflictu')
+print('Konflict razreshen')
