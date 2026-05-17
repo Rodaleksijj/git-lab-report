@@ -519,4 +519,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()def greet(name): return f'Hello {name}'
